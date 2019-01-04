@@ -6,7 +6,7 @@ aider les premier pas en contribution sur les projets opensource
 Hoantsika rehetra izay vao miana-mamindra amin'ny resaka git , indrindra fa ireo izay mi-contribuer amin'ny projet opensource , matetika misy conflit ilay merge.
 
 Ireto misy process kely arahina.
-```
+
 ------------------------------------
 Cloneo ilay projet noforkenao ao amin'ny repository anao
 ```
