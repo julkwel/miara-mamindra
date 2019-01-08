@@ -16,7 +16,7 @@ Midira ao amin'ilay projet en local anao
 ```
 $ cd ilay_repo
 ```
-Apetraho ao amin'ilay respos local anao ilay url an'ilay projet source mba ho à jour foana ny local anao
+Apetraho ao amin'ilay repos local anao ilay url an'ilay projet source mba ho à jour foana ny local anao
 ```
 $ git remote add upstream ilay_url_an_ilay_projet_noforkena
 ```
