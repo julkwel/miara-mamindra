@@ -24,11 +24,12 @@ Raiso ny modification rehetra any amin'ny upstream
 ```
 $ git fetch upstream
 ```
-Mergeo ao amin'ilay master en local anao ilay upstream
+Mergeo ao amin'ilay master en local anao ilay upstream raha misy modification
 ```
 $ git merge upstream/master
 ```
-Mi-creeva branche hafa 
+Mi-creeva branche hafa
+
 ```
 $ git checkout -b "brancheko_vaovao"
 ```
@@ -42,7 +43,7 @@ $ git fetch upstream
 ```
 Raha misy modif dia mergeo ao amin'ny master anao:
 ```
-$ git merge upstream/master
+$ git merge upstream/brancheko_vaovao
 ```
 
 Rehefa izay dia akaro amin'izay ilay modif anao:
@@ -51,10 +52,6 @@ $ git add fichier_no_modifier_nao
 $ git commit -m "message commit anao"
 $ git push -u origin brancheko_vaovao
 ```
-Rehefa tena afapo ianao amin'ny modif rehetra dia mergeo ao amin'ny master anao ilay branche anao vaovao
-```
-$ git merge brancheko_vaovao/master
-```
 
-Vita izay dia manaova pull request.
+Vita izay dia manaova pull request amin'ilay branche no-creenao.
 Misaotra anao namaky 😉
