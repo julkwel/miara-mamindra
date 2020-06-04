@@ -17,7 +17,7 @@ $ cd ilay_repo
 ```
 5 - Apetraho ao amin'ilay repos local anao ilay url an'ilay projet source mba ho à jour foana ny local anao
 ```
-$ git remote add upstream ilay_url_an_ilay_projet_noforkena
+$ git remote add upstream ilay_url_original_an_ilay_projet_noforkena
 ```
 6 - Raiso ny modification rehetra any amin'ny upstream
 ```
