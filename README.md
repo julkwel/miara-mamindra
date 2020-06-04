@@ -1,4 +1,5 @@
-# First-contribution-setup
+# Miara-mamindra 
+
 Ho fanampiana ireo rehetra izay vao hi-contribuer amin'ny projet OpenSource.
 
 Rehefa hi-contribuer amin'ny projet iray ianao dia :
