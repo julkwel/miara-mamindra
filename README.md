@@ -1,7 +1,5 @@
 # first-contribution-setup
-Ho fanampiana ireo rehetra izay vao hi-contribuer , 
-to help another first contribution in opensource project , 
-aider les premier pas en contribution sur les projets opensource
+Ho fanampiana ireo rehetra izay vao hi-contribuer amin'ny projet OpenSource.
 
 Hoantsika rehetra izay vao miana-mamindra amin'ny resaka git , indrindra fa ireo izay mi-contribuer amin'ny projet opensource , matetika misy conflit ilay merge.
 
